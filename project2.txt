@@ -1,3 +1,4 @@
 PROJECT 2
 -Membuat project dengan konsisten
--dan membuat hinnga selesai.
+-dan membuat hinnga selesai
+-Membuat file di github
